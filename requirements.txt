@@ -1,0 +1,5 @@
+dataclasses
+numpy
+opencv-python
+tqdm
+requests
