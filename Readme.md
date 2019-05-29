@@ -7,7 +7,7 @@ then returns the json data with any additional fields extracted through computer
 
 ## extract_frames
 You may use `extract_frames.py` (or [`extract_frames.exe`](https://github.com/synap5e/overtrack-plugin-rig/releases)) 
-to simulate OverTrack's posting of frames to your server. 
+to simulate OverTrack's posting of frames to your server, by providing it a video to extract frames from. 
 
 ### Usage
 ```
